@@ -11,6 +11,6 @@ let surfaceArea= 4*P*(radius**2);
 document.write('The surface area is ');
 document.write(surfaceArea);
 document.write('<br><br>');
-let volume = (4/3) * (P * radius ** 3);
+let volume = (4/3)*(P * radius ** 3);
 document.write('The volume is ');
 document.write(volume);
