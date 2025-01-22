@@ -8,4 +8,4 @@ document.write('The circumference is ' + circumference + '.'+ <br>);
 document.write('The surface area is ' + surfaceArea + '.'+ <br>);
 document.write('The volume is ' + volume + '.'+ <br>);
 
-var radius = 6.378 * 10e6 ;
+var radius = 6.378e6 ;
