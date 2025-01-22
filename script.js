@@ -12,5 +12,5 @@ document.write('The surface area is ');
 document.write(surfaceArea);
 document.write('<br><br>');
 let volume = (4/3)*(P * radius ** 3);
-document.write('The volume is ');
+document.write('The volume of the sphere is ');
 document.write(volume);
