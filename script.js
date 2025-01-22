@@ -1,17 +1,15 @@
-const I = 3.14;
-document.write(I);
-document.write('<br><br>');
+const P = 3.14;
 let radius = 6.378e6; 
 document.write('The radius is ');
 document.write (radius);
 document.write('<br><br>');
-let circumference = 2*(I*radius);
+let circumference = 2*(P*radius);
 document.write('<br><br>');
 document.write(circumference)
-let surfaceArea= 4*I*(radius**2);
+let surfaceArea= 4*P*(radius**2);
 document.write('The surface area is ');
 document.write(surfaceArea);
 document.write('<br><br>');
-let V = (4/3) * (I * r ** 3);
+let volume = (4/3) * (P * r ** 3);
 document.write('The volume is ');
-document.write(V);
+document.write(volume);
