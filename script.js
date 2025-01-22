@@ -1,4 +1,4 @@
-const Pi = 3.14;
+const PI = 3.14;
 let radius;
 let circumference = 2 * Pi * r;
 let surfaceArea = 4 * Pi * r ** 2
