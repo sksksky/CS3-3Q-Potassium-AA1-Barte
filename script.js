@@ -4,7 +4,7 @@ document.write('The radius is ');
 document.write (radius);
 document.write('<br><br>');
 let circumference = 2*(P*radius);
-document.write('The circumference is');
+document.write('The circumference is ');
 document.write(circumference)
 document.write('<br><br>');
 let surfaceArea= 4*P*(radius**2);
