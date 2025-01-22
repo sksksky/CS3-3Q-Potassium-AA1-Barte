@@ -1,5 +1,5 @@
 const PI = 3.14;
-let radius;
+var radius;
 let circumference = 2 * PI * r;
 let surfaceArea = 4 * PI * r ** 2
 let volume = (4/3) * PI * r ** 3
@@ -8,4 +8,4 @@ document.write('The circumference is ' + circumference + '.'+ <br>);
 document.write('The surface area is ' + surfaceArea + '.'+ <br>);
 document.write('The volume is ' + volume + '.'+ <br>);
 
-let radius = 6.378 * 10e6 ;
+var radius = 6.378 * 10e6 ;
